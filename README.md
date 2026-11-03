@@ -1,9 +1,5 @@
-# Эльмира Кямаловна Наберушкина / Elmira Naberushkina
+# Эльмира Кямаловна Наберушкина — академическое портфолио
 
-Персональное академическое портфолио: биография, научные интересы, публикации, источники. Русская и английская версии.
+Публичная резервная копия: https://oprimeroman-art.github.io/elmira-naberushkina/
 
-Academic portfolio: biography, research, publications, verifiable sources. Russian and English.
-
-Источник сведений / Sources: [Финансовый университет](https://www.fa.ru/university/employee/naberushkina-elmira-kyamalovna), [ORCID](https://orcid.org/0000-0001-7495-231X).
-
-Публичная страница / Website: https://oprimeroman-art.github.io/elmira-naberushkina/
+Статический двуязычный сайт. Файлы: index.html, styles.css, script.js, favicon.svg, og-cover.svg. Для переноса на другой хостинг разместите их в одной директории. Исходные данные снабжены ссылками на официальные университетские и научные источники.
